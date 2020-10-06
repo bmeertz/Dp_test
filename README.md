@@ -1,5 +1,5 @@
 # Dp_test
-Testing your .NET Skills! 
+Please follow the instructions to take part in the applicant test.
 
 # Tasks
 
