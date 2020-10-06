@@ -13,6 +13,7 @@ Testing your .NET Skills!
   * YOUR FUNCTION/METHOD NAME
   * YOUR FUNCTION/METHOD DESCRIPTION
   * YOUR EXEC.TIME
+  * OUR DECRYPTED MESSAGE
 6) Upload your Code to this github-repo in a separate branch with your name as the branch name
 
 ```json
@@ -34,7 +35,8 @@ Testing your .NET Skills!
             "Execetion_Time": "YOUR EXEC.TIME" 
         },
         ...
-    ]
+    ],
+    "Decrypted_MSG": "YOUR DECRYPTED MESSAGE"
 }
 ```
 
