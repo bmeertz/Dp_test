@@ -1,0 +1,6 @@
+URL: https://dp-test-a0cf4.firebaseio.com/
+API-Token: AIzaSyCcoix9lwx23uKYOuGvx7pQxr3P_9jJ8Rg
+ID: dp-test-a0cf4
+public-name: project-412284621857
+
+DOCS: https://firebase.google.com/docs/database/rest/start
