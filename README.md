@@ -6,7 +6,7 @@ Please follow the instructions to take part in the applicant test.
 1) Track the execution time and save the results for each function/method that you use to complete the tasks (2, 4, 5)
 2) Connect to the API with the parameter https://dptest.meertzware.eu/?key=%YOUR_TEST_KEY%
 3) The API will give you a encrypted string as a result
-4) Decrypt the AES encrypted string with your personal key
+4) Decrypt the AES 128bit encrypted string with your personal key
 5) Use the code sample or create your own code/project to connect to the NoSQL Firebase database and write your results based on the following JSON structure and store them in the NoSQL database (find the credentials in firebase.connect.txt)
  - Change the Values: 
   * YOUR_KEY
