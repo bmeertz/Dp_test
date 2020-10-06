@@ -14,7 +14,7 @@ Testing your .NET Skills!
   5.A.III) YOUR FUNCTION/METHOD DESCRIPTION
   5.A.IV) YOUR EXEC.TIME
 6) Upload your Code to this github-repo in a separate branch with your name as the branch name
-
+...json
     "YOUR_KEY": {
         "functions": [
             {
@@ -32,9 +32,9 @@ Testing your .NET Skills!
               Description: YOUR FUNCTION/METHOD DESCRIPTION
               Execetion_Time: YOUR EXEC.TIME
             },
-            ...
+            
         ]
      }
+...
 
-
-Credits Firebase Example: https://github.com/manishtiwari25/
+Credits .Net Firebase Example: https://github.com/manishtiwari25/
