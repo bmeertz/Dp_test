@@ -16,7 +16,27 @@ Testing your .NET Skills!
 6) Upload your Code to this github-repo in a separate branch with your name as the branch name
 
 ...json
-"YOUR_KEY": { "functions": [ { Function: YOUR FUNCTION/METHOD NAME Description: YOUR FUNCTION/METHOD DESCRIPTION Execetion_Time: YOUR EXEC.TIME }, { Function: YOUR FUNCTION/METHOD NAME Description: YOUR FUNCTION/METHOD DESCRIPTION Execetion_Time: YOUR EXEC.TIME }, { Function: YOUR FUNCTION/METHOD NAME Description: YOUR FUNCTION/METHOD DESCRIPTION Execetion_Time: YOUR EXEC.TIME }, ] }
+
+{ "YOUR_KEY": { 
+    "functions": [ 
+        { 
+            "Function": "YOUR FUNCTION/METHOD NAME",
+            "Description": "YOUR FUNCTION/METHOD DESCRIPTION",
+            "Execetion_Time": "YOUR EXEC.TIME" 
+        }, 
+        { 
+            "Function": "YOUR FUNCTION/METHOD NAME",
+            "Description": "YOUR FUNCTION/METHOD DESCRIPTION",
+            "Execetion_Time": "YOUR EXEC.TIME" 
+        },
+        { 
+            "Function": "YOUR FUNCTION/METHOD NAME",
+            "Description": "YOUR FUNCTION/METHOD DESCRIPTION",
+            "Execetion_Time": "YOUR EXEC.TIME" 
+        }
+    ]
+}
+
 ...
 
 Credits .Net Firebase Example: https://github.com/manishtiwari25/
