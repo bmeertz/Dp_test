@@ -14,7 +14,7 @@ Please follow the instructions to take part in the applicant test.
   * YOUR FUNCTION/METHOD DESCRIPTION
   * YOUR EXEC.TIME
   * YOUR FUNCTION RESULT
-  * OUR DECRYPTED MESSAGE
+  * YOUR DECRYPTED MESSAGE
 6) Upload your Code to this github-repo in a separate branch with your name as the branch name
 
 ```json
