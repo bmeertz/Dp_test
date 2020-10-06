@@ -12,7 +12,7 @@ Testing your .NET Skills!
   * YOUR_KEY
   * YOUR FUNCTION/METHOD NAME
   * YOUR FUNCTION/METHOD DESCRIPTION
-  * OUR EXEC.TIME
+  * YOUR EXEC.TIME
 6) Upload your Code to this github-repo in a separate branch with your name as the branch name
 
 ```json
