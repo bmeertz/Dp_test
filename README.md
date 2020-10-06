@@ -13,6 +13,7 @@ Please follow the instructions to take part in the applicant test.
   * YOUR FUNCTION/METHOD NAME
   * YOUR FUNCTION/METHOD DESCRIPTION
   * YOUR EXEC.TIME
+  * YOUR FUNCTION RESULT
   * OUR DECRYPTED MESSAGE
 6) Upload your Code to this github-repo in a separate branch with your name as the branch name
 
@@ -22,17 +23,20 @@ Please follow the instructions to take part in the applicant test.
         { 
             "Function": "YOUR FUNCTION/METHOD NAME",
             "Description": "YOUR FUNCTION/METHOD DESCRIPTION",
-            "Execetion_Time": "YOUR EXEC.TIME" 
+            "Execetion_Time": "YOUR EXEC.TIME",
+            "Result": "YOUR FUNCTION RESULT"
         }, 
         { 
             "Function": "YOUR FUNCTION/METHOD NAME",
             "Description": "YOUR FUNCTION/METHOD DESCRIPTION",
-            "Execetion_Time": "YOUR EXEC.TIME" 
+            "Execetion_Time": "YOUR EXEC.TIME",
+            "Result": "YOUR FUNCTION RESULT"
         },
         { 
             "Function": "YOUR FUNCTION/METHOD NAME",
             "Description": "YOUR FUNCTION/METHOD DESCRIPTION",
-            "Execetion_Time": "YOUR EXEC.TIME" 
+            "Execetion_Time": "YOUR EXEC.TIME",
+            "Result": "YOUR FUNCTION RESULT"
         },
         ...
     ],
